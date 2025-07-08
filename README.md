@@ -1,2 +1,2 @@
-# thurzxdeveloper
-thurzxdeveloper
+# thurzxdev
+thurzxdev
